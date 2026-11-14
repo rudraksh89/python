@@ -9,8 +9,8 @@ b = 9
 b += 3
 
 #comparison operator return alsways boolean 
-d = 1
 e = 9
+d = 1
 print(e > d)
 
 #logical operators
